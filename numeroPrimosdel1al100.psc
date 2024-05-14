@@ -1,4 +1,4 @@
-Algoritmo sin_titulo
+Algoritmo numeros_primos_del_1al100
 	Definir cont, iteracion, divisionResiduoCero Como Entero
 	cont <- 1
 	iteracion <- 1
