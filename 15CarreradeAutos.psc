@@ -17,5 +17,5 @@ Algoritmo sin_titulo
 		FinSi
 	FinPara
 	// mostrar quien tuvo el peor tiempo
-	Escribir 'El candidato que tuvo peor tiempo hizo: ', mayorTiempo ' El numero de auto era: ', numVehiaux
+	Escribir 'El candidato que tuvo peor tiempo hizo: ', mayorTiempo, ' El numero de auto era: ', numVehiaux
 FinAlgoritmo
