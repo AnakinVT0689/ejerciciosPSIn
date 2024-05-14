@@ -11,7 +11,7 @@ Algoritmo sin_titulo
 			iteracion <- iteracion+1
 		FinMientras
 		Si (divisionResiduoCero==2) Entonces
-			Escribir 'El número primo: ', cont
+			Escribir 'El número primo es: ', cont
 		SiNo
 			Escribir cont
 		FinSi
