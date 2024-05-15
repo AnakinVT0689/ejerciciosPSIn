@@ -1,4 +1,4 @@
-Algoritmo sin_titulo
+Algoritmo Serie_Fibonacci
 	Definir a, b, c, cont Como Entero
 	Escribir 'A continuacion presentamos la Serie Fibonacci'
 	a <- 0
