@@ -1,7 +1,7 @@
 Algoritmo sin_titulo
 	Definir  cont Como Entero
-	cont <- 0
-	Mientras  (cont <= 80)
+	cont <- 1
+	Mientras  (cont <= 100)
 		Escribir "Estoy en la vuelta ", cont
 		cont <- cont + 1
 	FinMientras
