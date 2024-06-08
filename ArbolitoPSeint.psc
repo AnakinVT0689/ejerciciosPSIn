@@ -6,7 +6,6 @@ Algoritmo sin_titulo
 	Para fila<-0 Hasta altura-1 Con Paso 1 Hacer
 		// bucle para los espacios
 		Para espacio<-0 Hasta (altura-fila-1)-1 Con Paso 1 Hacer
-			
 			Escribir ' 'Sin Saltar
 		FinPara
 		// bucle para los asteriscos **
@@ -17,7 +16,7 @@ Algoritmo sin_titulo
 		Escribir ''
 	FinPara
 	// tronco
-	largoTronco <- 1
+	largoTronco <- 2
 	Para base<-0 Hasta largoTronco-1 Con Paso 1 Hacer
 		// bucle para los espacios en blanco
 		Para espacio<-0 Hasta (altura-2)-1 Con Paso 1 Hacer
